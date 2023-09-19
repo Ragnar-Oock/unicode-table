@@ -1,0 +1,5 @@
+
+export const NUMBER_OF_ROWS = 100;
+export const NUMBER_OF_COLLUMNS = 16;
+
+export const TOTAL_PER_PAGE = NUMBER_OF_COLLUMNS * NUMBER_OF_ROWS;
